@@ -1,0 +1,25 @@
+{
+  "name": "bookmarks",
+  "version": "1.0.0",
+  "description": "2-model CRUD applications USER has many Bookmarks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdreiser1/bookmarks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdreiser1/bookmarks/issues"
+  },
+  "homepage": "https://github.com/jdreiser1/bookmarks#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "method-override": "^2.3.7",
+    "mongoose": "^4.7.0"
+  }
+}
